@@ -1,0 +1,99 @@
+{
+  "base": {
+    "color": {
+      "black": {
+        "$value": "#000000",
+        "$type": "color",
+        "$extensions": {
+          "org.helix.figma": {
+            "collection": "base/color/light"
+          }
+        }
+      },
+      "transparent": {
+        "$value": "#ffffff",
+        "$type": "color",
+        "$extensions": {
+          "org.helix.figma": {
+            "collection": "base/color/light"
+          }
+        },
+        "alpha": "0"
+      },
+      "white": {
+        "$value": "#ffffff",
+        "$type": "color",
+        "$extensions": {
+          "org.helix.figma": {
+            "collection": "base/color/light"
+          }
+        }
+      },
+      "gray": {
+        "50": {
+          "$value": "#f7f8fa",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "100": {
+          "$value": "#e6e7eb",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "200": {
+          "$value": "#d3d4db",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "400": {
+          "$value": "#c0c2cc",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "500": {
+          "$value": "#565866",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "700": {
+          "$value": "#363842",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "900": {
+          "$value": "#14151a",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        }
+      }
+    }
+  }
+}
