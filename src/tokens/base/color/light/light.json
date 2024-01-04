@@ -93,6 +93,371 @@
             }
           }
         }
+      },
+      "blue": {
+        "50": {
+          "$value": "#f0f1ff",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "100": {
+          "$value": "#dee1ff",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "200": {
+          "$value": "#c9ceff",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "400": {
+          "$value": "#7883ff",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "500": {
+          "$value": "#3d4cf2",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "700": {
+          "$value": "#303cbf",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "900": {
+          "$value": "#1d2473",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        }
+      },
+      "red": {
+        "50": {
+          "$value": "#fff0f0",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "100": {
+          "$value": "#ffe0e0",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "200": {
+          "$value": "#fec6c6",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "400": {
+          "$value": "#ff7a7a",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "500": {
+          "$value": "#d64040",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "700": {
+          "$value": "#a31a1a",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "900": {
+          "$value": "#660005",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        }
+      },
+      "yellow": {
+        "50": {
+          "$value": "#fcf7e3",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "100": {
+          "$value": "#fcecba",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "400": {
+          "$value": "#fccd3f",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "500": {
+          "$value": "#fcad00",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "900": {
+          "$value": "#5c3d00",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        }
+      },
+      "green": {
+        "50": {
+          "$value": "#edfaf6",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "100": {
+          "$value": "#d3f5e9",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "400": {
+          "$value": "#6accab",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "500": {
+          "$value": "#00b277",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "900": {
+          "$value": "#004730",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        }
+      },
+      "orange": {
+        "50": {
+          "$value": "#ffefe0",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "100": {
+          "$value": "#ffdec2",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "400": {
+          "$value": "#ff9d47",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "500": {
+          "$value": "#ff7700",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "900": {
+          "$value": "#733600",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        }
+      },
+      "purple": {
+        "50": {
+          "$value": "#f4f0ff",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "100": {
+          "$value": "#e6deff",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "400": {
+          "$value": "#a98cff",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "500": {
+          "$value": "#7b4fff",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "900": {
+          "$value": "#321d73",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        }
+      },
+      "pink": {
+        "50": {
+          "$value": "#ffedfb",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "100": {
+          "$value": "#f7dff2",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "400": {
+          "$value": "#ed9ada",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "500": {
+          "$value": "#d67cc2",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        },
+        "900": {
+          "$value": "#731d5f",
+          "$type": "color",
+          "$extensions": {
+            "org.helix.figma": {
+              "collection": "base/color/light"
+            }
+          }
+        }
       }
     }
   }
